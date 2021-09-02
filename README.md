@@ -1,2 +1,2 @@
-# email-funnel-builder
+# gjs-preset-email-funnel
 Created with CodeSandbox
